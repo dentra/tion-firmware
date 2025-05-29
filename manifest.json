@@ -9,7 +9,7 @@
   {
     "type": "4s",
     "code": "02E0",
-    "fav": true,
+    "like": true,
     "path": "firmware_4s_02E0.bin",
     "size": 109892,
     "sha1": "5aaff3049bb6a718f3a11d86d85dda35e623fa29"
@@ -20,6 +20,13 @@
     "path": "firmware_4s_0356.bin",
     "size": 111460,
     "sha1": "4fdbd477cff7818fe326b4284b37925b6cb994c2"
+  },
+  {
+    "type": "4s",
+    "code": "048B",
+    "path": "firmware_4s_048B.bin",
+    "size": 121098,
+    "sha1": "3114957bfa57d80646995effa311f5983d2429c7"
   },
   {
     "type": "lt",
